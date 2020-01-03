@@ -6,3 +6,5 @@ This is a test.
 This change was made in GitHub repo.
 
 `git diff` test on master branch.
+
+A new edit to the new `staging` branch from `master`.
